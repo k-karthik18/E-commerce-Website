@@ -374,7 +374,6 @@ background-image: url("img/banner/b14.png");
 background-repeat: no-repeat;
 background-position: 20% 30%;
 background-color: #041e42;
-
 }
 
 #newsletter h4{
@@ -408,7 +407,7 @@ color:#fff;
 }
     #newsletter button { 
     background-color: #088178;
-    color: #fff;
+    color: white;
     white-space: nowrap;
     width: 30%;
     border-radius: 4px;
